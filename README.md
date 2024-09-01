@@ -17,7 +17,7 @@ python server.py 1234 1111
 client.py运行在内网中，第一个参数是公网服务器地址，第二个参数是内网服务的地址
 
 ```
-python client.py 10.11.12.13:1234 127.0.0.1:8081
+python client.py 11.11.12.12:1234 127.0.0.1:8081
 python client.py myserver.com:1234 127.0.0.1:8081
 ```
 
