@@ -22,3 +22,5 @@ python client.py myserver.com:1234 127.0.0.1:8081
 ```
 
 例如在本地python -m http.server 8081开启了访问，访问myserver.com:1111即可访问到内网服务
+
+目前该代码仅作为学习实验，其网络安全未能得到保障，切不可作为实际工具使用。
